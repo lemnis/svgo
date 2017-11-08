@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <polyline points="0 0 10 20" transform="translate(10, 10)" />
+</svg>
+
+@@@
+
+<svg xmlns="http://www.w3.org/2000/svg">
+    <polyline points="10 10 20 30"/>
+</svg>

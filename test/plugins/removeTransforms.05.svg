@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <rect x="0" y="0" width="10" height="10" transform="translate(20, 20) rotate(45) scale(2, 2)" />
+</svg>
+
+@@@
+
+<svg xmlns="http://www.w3.org/2000/svg">
+    <polygon points="20 20 34.142 34.142 20 48.284 5.858 34.142"/>
+</svg>
