@@ -43,7 +43,7 @@ function convertTransform(item) {
     for (let transform of transforms) {
         if (transform.name === 'translate') {
             var currentCoordinates = getCoordinates(item);
-            if(currentCoordinates == false){
+            if(currentCoordinates !== false){
                 for (var i = 0; i < transform.data.length; i++) {
                     var currentTranslate = transform.data[i];
 
