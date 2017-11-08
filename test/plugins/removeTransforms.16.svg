@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <rect transform="translate(30, 30)" x="5%" y="5%" width="100%" height="100%" />
+</svg>
+
+@@@
+
+<svg xmlns="http://www.w3.org/2000/svg">
+    <rect transform="translate(30, 30)" x="5%" y="5%" width="100%" height="100%"/>
+</svg>
